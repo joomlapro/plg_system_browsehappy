@@ -14,6 +14,11 @@
 		<filename plugin="browsehappy">browsehappy.php</filename>
 		<filename>index.html</filename>
 	</files>
+	<media destination="plg_system_browsehappy" folder="media">
+		<folder>css</folder>
+		<folder>less</folder>
+		<filename>index.html</filename>
+	</media>
 	<languages folder="language">
 		<language tag="en-GB">en-GB/en-GB.plg_system_browsehappy.ini</language>
 		<language tag="en-GB">en-GB/en-GB.plg_system_browsehappy.sys.ini</language>

@@ -63,6 +63,9 @@ class PlgSystemBrowsehappy extends JPlugin
 
 		if ($browser->getBrowser() == 'msie' && intval($browser->getMajor()) < $this->params->get('minimal', 7))
 		{
+			// Load Stylesheet.
+			JHtml::stylesheet('plg_system_browsehappy/template.css', false, true, false);
+
 			// Build the message.
 			$message = '<p class="browsehappy">' . JText::_('PLG_SYSTEM_BROWSEHAPPY_MESSAGE') . '</p>';
 
