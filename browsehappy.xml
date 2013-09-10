@@ -17,6 +17,8 @@
 	<languages folder="language">
 		<language tag="en-GB">en-GB/en-GB.plg_system_browsehappy.ini</language>
 		<language tag="en-GB">en-GB/en-GB.plg_system_browsehappy.sys.ini</language>
+		<language tag="es-ES">es-ES/es-ES.plg_system_browsehappy.ini</language>
+		<language tag="es-ES">es-ES/es-ES.plg_system_browsehappy.sys.ini</language>
 		<language tag="pt-BR">pt-BR/pt-BR.plg_system_browsehappy.ini</language>
 		<language tag="pt-BR">pt-BR/pt-BR.plg_system_browsehappy.sys.ini</language>
 	</languages>
