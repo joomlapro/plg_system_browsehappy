@@ -61,7 +61,7 @@ class PlgSystemBrowsehappy extends JPlugin
 		// Add JavaScript Frameworks.
 		JHtml::_('jquery.framework');
 
-		if ($browser->getBrowser() == 'msie' && intval($browser->getMajor()) < $this->params->get('minimal', 7))
+		if ($browser->getBrowser() == 'msie' && intval($browser->getMajor()) < $this->params->get('minimal', 8))
 		{
 			// Load Stylesheet.
 			JHtml::stylesheet('plg_system_browsehappy/template.css', false, true, false);

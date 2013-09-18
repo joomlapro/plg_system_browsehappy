@@ -34,8 +34,8 @@
 					name="minimal"
 					type="list"
 					class="inputbox"
-					size="1"
-					default="7"
+					size="2"
+					default="8"
 					label="PLG_SYSTEM_BROWSEHAPPY_FIELD_MINIMAL_LABEL"
 					description="PLG_SYSTEM_BROWSEHAPPY_FIELD_MINIMAL_DESC">
 					<option value="">JSELECT</option>
